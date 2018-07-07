@@ -2905,15 +2905,6 @@ http://54.36.160.2:8080/live/paz1/paz1/57252.ts
 http://54.36.160.2:8080/live/paz1/paz1/57139.ts
 #EXTINF:-1,NICKTOONS.
 http://54.36.160.2:8080/live/paz1/paz1/57140.ts
-#EXTINF:-1,BABY TV
-http://54.36.160.2:8080/live/paz1/paz1/57247.ts
-#EXTINF:-1,BBC NEWS HD
-http://54.36.160.2:8080/live/paz1/paz1/57311.ts
-#EXTINF:-1,BBC Radio 1
-http://54.36.160.2:8080/live/paz1/paz1/123022.ts
-#EXTINF:-1,BBC Radio 2
-http://54.36.160.2:8080/live/paz1/paz1/123023.ts
-#EXTINF:-1,BBC Radio 3
-http://54.36.160.2:8080/live/paz1/paz1/123024.ts
-#EXTINF:-1,BBC Radio 4
-http://54.36.160.2:8080/live/paz1/paz1/123025.ts
+
+#EXTINF:-1,UK: BBC One HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/13688.ts
