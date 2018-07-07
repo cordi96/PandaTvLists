@@ -132,3 +132,1555 @@ http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.60.png" group-title="NEW ZEALAND",Wairarapa TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** iptvsatlinks ***
+https://iptvsatlinks.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://iptvsatlinks.net
+https://iptvsatlinks.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://iptvsatlinks.net/pages/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://iptvsatlinks.net/pages/playlists
+https://iptvsatlinks.net/pages/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/60.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/29479.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36498.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/29479.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36498.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/237.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29479.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36498.ts
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/846.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOX NATION | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/245.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOX NATION 1 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1330.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17576.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36506.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17576.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36506.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17576.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36506.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/96.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37382.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37382.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37382.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/838.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/766.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17570.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36515.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/1389.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17570.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36515.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17570.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36515.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/825.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/56.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/32859.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37155.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/32859.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37155.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/234.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32859.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37155.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17571.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37227.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17571.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37227.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17571.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37227.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/826.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36508.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37153.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/1124.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36508.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37153.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36508.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37153.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1324.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17572.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/32931.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/6671.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17572.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/32931.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17572.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32931.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/827.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/32223.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/815.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/32223.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/236.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32223.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/10759.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17573.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17573.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/10759.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17573.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/10760.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/129.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/238.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/10760.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EUROPE | SD (UK)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/1327.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EUROPE | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/835.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 2 | SD (UK)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/4336.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 2 | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/829.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 3 | SD (UK)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/4337.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 3 | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/830.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 4 | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/831.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 5 | SD (UK)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/4339.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 2 3 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1325.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS ESPN | SD (UK)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/773.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS ESPN | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/834.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BURSA SPORTS | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/383.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/23.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/10770.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/10770.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/240.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/10770.ts
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/843.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 1 | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/836.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 2 | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/837.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/10765.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17578.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/10765.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17578.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/10765.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17578.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37425.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37425.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37425.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EURO SPORT 1 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/232.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EURO SPORT 2 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/233.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17562.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/29815.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/799.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17562.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/29815.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17562.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29815.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/840.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/10763.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17563.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/10763.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/10763.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17563.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/841.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/798.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37159.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37159.ts
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37159.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FOX SPORTS 2 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/727.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FOX SPORTS 3 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/728.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FREE SPORTS | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/23002.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FREE SPORTS | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/23002.ts
+#EXTINF:0 group-title="(UK) United Kingdom",FREE SPORTS | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/23002.ts
+#EXTINF:0 group-title="(UK) United Kingdom",INDIA CRICKET SERIES | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1754.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/31950.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/33271.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/31950.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/33271.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31950.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/33271.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL FC | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/716.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL TV | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/242.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL TV | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/844.ts
+#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL TV 2 NEW | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1684.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/61.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORT TV | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/848.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17577.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17577.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17577.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/10772.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/10772.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/10772.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/26034.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/26034.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/26034.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/29480.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/239.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29480.ts
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/842.ts
+#EXTINF:0 group-title="(UK) United Kingdom",NBC GOLF | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/624.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PAC 12 NET ARIZONA | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/718.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORT | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/823.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/10767.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17574.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/10767.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17574.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/10767.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17574.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIERE SPORT | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/45.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIERE SPORT | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17220.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIERE SPORT | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17220.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIERE SPORT | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17220.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIERE SPORTS | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/241.ts
+#EXTINF:0 group-title="(UK) United Kingdom",PTV SPORTS | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/271.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/11160.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17575.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/1417.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/11160.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17575.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/29478.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37381.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/29478.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37381.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/243.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29478.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37381.ts
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/845.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SETANTA SPOR | SD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/839.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SETANTA SPORTS 3 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/736.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY AT THE RACES | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/461.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY AT THE RACES | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/461.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BOXNATION | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/490.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BOXNATION | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/490.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 1 | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/528.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 1 | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/528.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 1 | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/543.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 1 | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/543.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 2 | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/527.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 2 | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/527.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 2 | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/542.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 2 | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/542.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 3 EX EUROPE | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/453.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 3 EX EUROPE | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/453.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT ESPN | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/479.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT ESPN | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/479.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORTS EXTRA 1 | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/533.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORTS EXTRA 1 | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/533.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORTS EXTRA 2 | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/532.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORTS EXTRA 2 | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/532.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CHELSEA TV | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/537.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CHELSEA TV | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/537.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY EIR SPORT 1 | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1566.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY EIR SPORT 1 | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1566.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY EIR SPORT 2 | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1567.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY EIR SPORT 2 | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1567.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY EUROSPORT 1 | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/541.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY EUROSPORT 1 | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/541.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY GOLF | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/819.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVERPOOL FC TV | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/536.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVERPOOL FC TV | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/536.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOTORSPORT TV | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1555.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MUTV | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/535.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MUTV | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/535.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY RACING | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/458.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY RACING | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/458.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 1 | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/816.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 2 | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/817.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT ARENA | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1558.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT ARENA | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1558.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT AU 1 | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/438.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT AU 1 | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/438.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT F1 | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/821.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT FOOTBALL | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1559.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT FOOTBALL | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1559.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT MAIN EVENT | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/818.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT NEWS | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/824.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT PREMIER LEAGUE | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/820.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 1 5 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/699.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 2 4 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/709.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 2 5 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/710.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 2 NEW | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/943.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 3 4 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/796.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 4 1 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/798.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 4 3 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/800.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 5 | HD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/428.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 5 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/171.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 5 2 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/802.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/545.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/545.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17559.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36509.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/6670.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17559.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36509.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17559.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36509.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1560.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1560.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36510.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/1123.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36510.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36510.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/11911.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17560.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/11911.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17560.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/pedro/pedro/11911.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/11911.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17560.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37294.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37294.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS BOX OFFICE | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/529.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/547.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/547.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17556.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/32881.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/6669.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17556.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/32881.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17556.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32881.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1564.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1564.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/16599.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/1122.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/16599.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/16599.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/9721.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17558.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/9721.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17558.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/429.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9721.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17558.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/539.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/539.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/9722.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/1416.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/9722.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/172.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9722.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/12451.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17555.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/12450.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/12451.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17555.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/12451.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17555.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36511.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37400.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36511.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37400.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36511.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37400.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1563.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1563.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17147.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/13181.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17147.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17147.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/548.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/548.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/32594.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/32594.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32594.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/546.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/546.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36512.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/6672.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36512.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36512.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1561.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1561.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36513.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/1121.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36513.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36513.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/513.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/513.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/9723.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/6461.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/9723.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9723.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/822.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/29507.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/29507.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/619.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29507.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX 2 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/797.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37299.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37299.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/430.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37299.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/549.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/549.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/20.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS 1 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/701.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS 3 | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/703.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/9725.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17561.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/6668.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/9725.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17561.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9725.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17561.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1565.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1565.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/544.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/544.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/38.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/17554.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/36514.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/17554.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/office/test/36514.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/17554.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36514.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://ipsatpro.biz:8080/live/Majda/Majda/1562.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://212.8.248.197:8080/live/Majda/Majda/1562.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/44.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/13633.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/13633.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/13633.ts
+#EXTINF:0 group-title="(UK) United Kingdom",STAR SPORTS 2 | HD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/164.ts
+#EXTINF:0 group-title="(UK) United Kingdom",WILLOW CRICKET | SD (UK)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/276.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ZIGGO SPORT RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/carl/carl/37165.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ZIGGO SPORT RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/office/test/37165.ts
+#EXTINF:0 group-title="(UK) United Kingdom",ZIGGO SPORT RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37165.ts
+
+#EXTINF:0 group-title="(US) United States",*** iptvsatlinks ***
+https://iptvsatlinks.net
+#EXTINF:0 group-title="(US) United States",https://iptvsatlinks.net
+https://iptvsatlinks.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://iptvsatlinks.net/pages/playlists
+#EXTINF:0 group-title="(US) United States",https://iptvsatlinks.net/pages/playlists
+https://iptvsatlinks.net/pages/playlists
+#EXTINF:0 group-title="(US) United States",AFN PRIME | HD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1479.ts
+#EXTINF:0 group-title="(US) United States",AFN PRIME | HD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1479.ts
+#EXTINF:0 group-title="(US) United States",AFN PULSE | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1468.ts
+#EXTINF:0 group-title="(US) United States",AFN PULSE | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1468.ts
+#EXTINF:0 group-title="(US) United States",AFN SPECTRUM | HD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1770.ts
+#EXTINF:0 group-title="(US) United States",AFN SPECTRUM | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1469.ts
+#EXTINF:0 group-title="(US) United States",AFN SPECTRUM | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1469.ts
+#EXTINF:0 group-title="(US) United States",AFN SPORTS | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1470.ts
+#EXTINF:0 group-title="(US) United States",AFN SPORTS | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1470.ts
+#EXTINF:0 group-title="(US) United States",AFN SPORTS 1 | SD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/864.ts
+#EXTINF:0 group-title="(US) United States",AFN SPORTS 2 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1446.ts
+#EXTINF:0 group-title="(US) United States",AFN SPORTS 2 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1446.ts
+#EXTINF:0 group-title="(US) United States",AFN SPORTS 2 | SD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/865.ts
+#EXTINF:0 group-title="(US) United States",BEIN SPORTS | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1486.ts
+#EXTINF:0 group-title="(US) United States",BEIN SPORTS | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1486.ts
+#EXTINF:0 group-title="(US) United States",BEIN SPORTS | SD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/868.ts
+#EXTINF:0 group-title="(US) United States",DE SPORT1 | HD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/346.ts
+#EXTINF:0 group-title="(US) United States",DISH | HD (US)
+http://192.99.18.65:8000/live/adrian/adrian/439.ts
+#EXTINF:0 group-title="(US) United States",DISH | SD (US)
+http://192.99.18.65:8000/live/adrian/adrian/531.ts
+#EXTINF:0 group-title="(US) United States",ESPN 2 | SD (US)
+http://k2442.com:8000/live/65388/65388/2003.ts
+#EXTINF:0 group-title="(US) United States",ESPN SPORT | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1483.ts
+#EXTINF:0 group-title="(US) United States",ESPN SPORT | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1483.ts
+#EXTINF:0 group-title="(US) United States",ESPN U | SD (US)
+http://k2442.com:8000/live/65388/65388/2002.ts
+#EXTINF:0 group-title="(US) United States",ESPN-1HD | SD (US)
+http://izgemma.ddns.net:8000/live/office/test/37330.ts
+#EXTINF:0 group-title="(US) United States",EURO SPORTS 1 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1437.ts
+#EXTINF:0 group-title="(US) United States",EURO SPORTS 1 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1437.ts
+#EXTINF:0 group-title="(US) United States",EURO SPORTS 5 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1435.ts
+#EXTINF:0 group-title="(US) United States",EURO SPORTS 5 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1435.ts
+#EXTINF:0 group-title="(US) United States",EURO SPORTS 6 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1439.ts
+#EXTINF:0 group-title="(US) United States",EURO SPORTS 6 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1439.ts
+#EXTINF:0 group-title="(US) United States",FIGHT NETWORK | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1457.ts
+#EXTINF:0 group-title="(US) United States",FIGHT NETWORK | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1457.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORT 1 | SD (US)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/7559.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORT 1 | SD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1783.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORT 2 | SD (US)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/7560.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORT 506 | HD (US)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/7561.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | HD (US)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/4432.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | HD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/866.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1516.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1516.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | SD (US)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/807.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | HD (US)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/4433.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | HD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/867.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1502.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1502.ts
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | SD (US)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/808.ts
+#EXTINF:0 group-title="(US) United States",NBA | HD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/861.ts
+#EXTINF:0 group-title="(US) United States",NBA TV | HD (US)
+http://k2442.com:8000/live/65388/65388/1903.ts
+#EXTINF:0 group-title="(US) United States",NBA TV | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1520.ts
+#EXTINF:0 group-title="(US) United States",NBA TV | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1520.ts
+#EXTINF:0 group-title="(US) United States",NBC GOLF | HD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/862.ts
+#EXTINF:0 group-title="(US) United States",NBC SPORT | HD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/1793.ts
+#EXTINF:0 group-title="(US) United States",NBC SPORTS | SD (US)
+http://k2442.com:8000/live/65388/65388/2042.ts
+#EXTINF:0 group-title="(US) United States",NBCSN GOLF | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1533.ts
+#EXTINF:0 group-title="(US) United States",NBCSN GOLF | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1533.ts
+#EXTINF:0 group-title="(US) United States",NFL NETWORK | HD (US)
+http://k2442.com:8000/live/65388/65388/1908.ts
+#EXTINF:0 group-title="(US) United States",NFL NETWORK | HD (US)
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/869.ts
+#EXTINF:0 group-title="(US) United States",NHL NETWORK | HD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1429.ts
+#EXTINF:0 group-title="(US) United States",NHL NETWORK | SD (US)
+http://k2442.com:8000/live/65388/65388/1907.ts
+#EXTINF:0 group-title="(US) United States",PAC-12 NETWORK | SD (US)
+http://izgemma.ddns.net:8000/live/office/test/37500.ts
+#EXTINF:0 group-title="(US) United States",PAC-12 NETWORK LIVE | SD (US)
+http://izgemma.ddns.net:8000/live/office/test/37327.ts
+#EXTINF:0 group-title="(US) United States",SKY | SD (US)
+http://192.99.18.65:8000/live/adrian/adrian/1045.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS | HD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1476.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS | HD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1476.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 1 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1431.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 1 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1431.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 2 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1436.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 2 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1436.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 3 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1472.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 3 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1472.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 4 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1473.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 4 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1473.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 5 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1474.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 6 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1475.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 6 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1475.ts
+#EXTINF:0 group-title="(US) United States",SPORT NETWORK | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1459.ts
+#EXTINF:0 group-title="(US) United States",SPORT NETWORK | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1459.ts
+#EXTINF:0 group-title="(US) United States",SPORT SNET CENTRAL | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1430.ts
+#EXTINF:0 group-title="(US) United States",SPORT SNET CENTRAL | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1430.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 1 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1451.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 1 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1451.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 2 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1452.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 2 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1452.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 3 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1453.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 3 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1453.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 4 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1454.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 4 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1454.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 5 | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1455.ts
+#EXTINF:0 group-title="(US) United States",SPORT TSN 5 | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1455.ts
+#EXTINF:0 group-title="(US) United States",SPORTS | HD (US)
+http://192.99.18.65:8000/live/adrian/adrian/377.ts
+#EXTINF:0 group-title="(US) United States",SPORTS | HD (US)
+http://192.99.18.65:8000/live/adrian/adrian/682.ts
+#EXTINF:0 group-title="(US) United States",SPORTS | SD (US)
+http://192.99.18.65:8000/live/adrian/adrian/1009.ts
+#EXTINF:0 group-title="(US) United States",SPORTS NET 360 | HD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1497.ts
+#EXTINF:0 group-title="(US) United States",SPORTS NET ONE | HD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1508.ts
+#EXTINF:0 group-title="(US) United States",SPORTS NET ONE | HD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1508.ts
+#EXTINF:0 group-title="(US) United States",SPORTS NET WORLD | SD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1526.ts
+#EXTINF:0 group-title="(US) United States",SPORTS NET WORLD | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1526.ts
+#EXTINF:0 group-title="(US) United States",SPORTS NFL NOW | HD (US)
+http://ipsatpro.biz:8080/live/Majda/Majda/1434.ts
+#EXTINF:0 group-title="(US) United States",SPORTS NFL NOW | HD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1434.ts
+#EXTINF:0 group-title="(US) United States",SPORTSNET 360 | HD (US)
+http://k2442.com:8000/live/65388/65388/1957.ts
+#EXTINF:0 group-title="(US) United States",SPORTSNET ONE | HD (US)
+http://k2442.com:8000/live/65388/65388/1958.ts
+#EXTINF:0 group-title="(US) United States",SPORTSNET ONTARIO | HD (US)
+http://k2442.com:8000/live/65388/65388/1959.ts
+#EXTINF:0 group-title="(US) United States",TENNIS CHANNEL | HD (US)
+http://k2442.com:8000/live/65388/65388/1992.ts
+#EXTINF:0 group-title="(US) United States",WILLOW CRICKET | SD (US)
+http://212.8.248.197:8080/live/Majda/Majda/1492.ts
+
+#EXTINF:0 group-title="(WW) World Wide",*** iptvsatlinks ***
+https://iptvsatlinks.net
+#EXTINF:0 group-title="(WW) World Wide",https://iptvsatlinks.net
+https://iptvsatlinks.net
+#EXTINF:0 group-title="(WW) World Wide",*** Playlists ***
+https://iptvsatlinks.net/pages/playlists
+#EXTINF:0 group-title="(WW) World Wide",https://iptvsatlinks.net/pages/playlists
+https://iptvsatlinks.net/pages/playlists
+#EXTINF:0 group-title="(WW) World Wide",SPORTS | HD (WW)
+http://192.99.18.65:8000/live/adrian/adrian/1181.ts
+
+#EXTINF:0 group-title="(_) _",*** iptvsatlinks ***
+https://iptvsatlinks.net
+#EXTINF:0 group-title="(_) _",https://iptvsatlinks.net
+https://iptvsatlinks.net
+#EXTINF:0 group-title="(_) _",*** Playlists ***
+https://iptvsatlinks.net/pages/playlists
+#EXTINF:0 group-title="(_) _",https://iptvsatlinks.net/pages/playlists
+https://iptvsatlinks.net/pages/playlists
+#EXTINF:0 group-title="(_) _",100 | SD (_)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 group-title="(_) _",A SPOR | HD (_)
+http://163.172.107.124:80/live/test22/test22/673.ts
+#EXTINF:0 group-title="(_) _",ABU DHABI SPORTS | HD (_)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 group-title="(_) _",ABU DHABI SPORTS | SD (_)
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:0 group-title="(_) _",ABU DHABI SPORTS | SD (_)
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:0 group-title="(_) _",ABU DHABI SPORTS | SD (_)
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 group-title="(_) _",ABU DHABI SPORTS 2 | HD (_)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 group-title="(_) _",ABU DHABI SPORTS 2 | SD (_)
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:0 group-title="(_) _",ABU DHABI SPORTS 2 | SD (_)
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 group-title="(_) _",ALL SPORT | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6812.ts
+#EXTINF:0 group-title="(_) _",ALL SPORTS | SD (_)
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 group-title="(_) _",AR MBC-SPORT-1HD | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/138.ts
+#EXTINF:0 group-title="(_) _",AR MBC-SPORT-2HD | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/139.ts
+#EXTINF:0 group-title="(_) _",AR MBC-SPORT-3HD | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/140.ts
+#EXTINF:0 group-title="(_) _",AR MBC-SPORT-4HD | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1214.ts
+#EXTINF:0 group-title="(_) _",AR ON-SPORTS | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/819.ts
+#EXTINF:0 group-title="(_) _",ARENA SPORT 1 | SD (_)
+http://81.200.50.4/hls/Arena_Sport_nejtv_portable_low.m3u8
+#EXTINF:0 group-title="(_) _",ARENA SPORT 2 | HD (_)
+http://81.200.50.4/hls/Arena_Sport_2_nejtv_portable_low.m3u8
+#EXTINF:0 group-title="(_) _",ARGENTINA | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/543.ts
+#EXTINF:0 group-title="(_) _",ARGENTINA | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/544.ts
+#EXTINF:0 group-title="(_) _",ASPOR | HD (_)
+http://163.172.107.124:80/live/test22/test22/6048.ts
+#EXTINF:0 group-title="(_) _",AUTOMOTO TV | SD (_)
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:0 group-title="(_) _",BAND SPORTS | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6138.ts
+#EXTINF:0 group-title="(_) _",BAND SPORTS | HD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38679.ts
+#EXTINF:0 group-title="(_) _",BAND SPORTS | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4398.ts
+#EXTINF:0 group-title="(_) _",BAND SPORTS | SD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38680.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/386.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/387.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/388.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/389.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/390.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/391.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/392.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/393.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/394.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/395.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/396.ts
+#EXTINF:0 group-title="(_) _",BEIN | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/397.ts
+#EXTINF:0 group-title="(_) _",BURSASPOR TV | SD (_)
+http://163.172.107.124:80/live/test22/test22/676.ts
+#EXTINF:0 group-title="(_) _",CBC SPORT | SD (_)
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+#EXTINF:0 group-title="(_) _",ES BEIN-SPORTS | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1009.ts
+#EXTINF:0 group-title="(_) _",ES M GOLF | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/81.ts
+#EXTINF:0 group-title="(_) _",ESPN | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6127.ts
+#EXTINF:0 group-title="(_) _",ESPN | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6143.ts
+#EXTINF:0 group-title="(_) _",ESPN | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4381.ts
+#EXTINF:0 group-title="(_) _",ESPN | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/7988.ts
+#EXTINF:0 group-title="(_) _",ESPN EXTRA | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/10283.ts
+#EXTINF:0 group-title="(_) _",ESPN EXTRA | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/10284.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6123.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/9145.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO | HD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38626.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6960.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO | SD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38627.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO 2 | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6125.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO 2 | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/9146.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO 2 | HD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38624.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO 2 | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4378.ts
+#EXTINF:0 group-title="(_) _",ESPORTE INTERATIVO 2 | SD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38625.ts
+#EXTINF:0 group-title="(_) _",EUROSPORT 1 | HD (_)
+http://81.200.50.4/hls/Eurosport_nejtv_portable_low.m3u8
+#EXTINF:0 group-title="(_) _",EUROSPORT 2 | SD (_)
+http://81.200.50.4/hls/Eurosport2_nejtv_portable_low.m3u8
+#EXTINF:0 group-title="(_) _",FISH TANK | SD (_)
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:0 group-title="(_) _",FISH TV | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/10280.ts
+#EXTINF:0 group-title="(_) _",FISH TV | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4377.ts
+#EXTINF:0 group-title="(_) _",FOX SPORT | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/8150.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6118.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS | HD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45425.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4373.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS | SD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38609.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS 2 | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6117.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS 2 | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/8151.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS 2 | HD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38606.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS 2 | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4372.ts
+#EXTINF:0 group-title="(_) _",FOX SPORTS 2 | SD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38607.ts
+#EXTINF:0 group-title="(_) _",FR GOLF | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/850.ts
+#EXTINF:0 group-title="(_) _",FR GOLF | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1236.ts
+#EXTINF:0 group-title="(_) _",FR TF1 | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1261.ts
+#EXTINF:0 group-title="(_) _",FR TF1 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/5.ts
+#EXTINF:0 group-title="(_) _",FR TF1-SERIES-FILMS | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1839.ts
+#EXTINF:0 group-title="(_) _",FR TF1-SERIES-FILMS | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1144.ts
+#EXTINF:0 group-title="(_) _",GOLF CHANNEL | HD (_)
+http://81.200.50.4/hls/Golf_Channel_nejtv_portable_low.m3u8
+#EXTINF:0 group-title="(_) _",IT RAI SPORT 2 | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1237.ts
+#EXTINF:0 group-title="(_) _",JUSTICE LEAGUE 2017 | SD (_)
+https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
+#EXTINF:0 group-title="(_) _",JUSTICE LEAGUE DARK 2017 | SD (_)
+https://bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8
+#EXTINF:0 group-title="(_) _",MLB NETWORK | SD (_)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 group-title="(_) _",MLB NETWORK | SD (_)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:0 group-title="(_) _",MY@ ASTRO SPORTS | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/35154.ts
+#EXTINF:0 group-title="(_) _",MY@ ASTRO SPORTS | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/36505.ts
+#EXTINF:0 group-title="(_) _",MY@ ASTRO SPORTS | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/35154.ts
+#EXTINF:0 group-title="(_) _",MY@ ASTRO SPORTS | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/36505.ts
+#EXTINF:0 group-title="(_) _",MY@ ASTRO SPORTS | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/35154.ts
+#EXTINF:0 group-title="(_) _",MY@ ASTRO SPORTS | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36505.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 1 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/19910.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 1 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/36504.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 1 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/19910.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 1 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/36504.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 1 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/19910.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 1 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36504.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 2 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/19911.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 2 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/36503.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 2 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/19911.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 2 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/36503.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 2 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/19911.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 2 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36503.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 3 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/19912.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 3 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/36502.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 3 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/19912.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 3 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/36502.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 3 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/19912.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 3 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36502.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 4 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/19913.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 4 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/36501.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 4 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/36501.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 4 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/19913.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 4 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36501.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 5 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/19914.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 5 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/36500.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 5 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/19914.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 5 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/36500.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 5 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/19914.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 5 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36500.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 6 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/19915.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 6 | SD (_)
+http://izgemma.ddns.net:8000/live/carl/carl/36499.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 6 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/19915.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 6 | SD (_)
+http://izgemma.ddns.net:8000/live/office/test/36499.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 6 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/19915.ts
+#EXTINF:0 group-title="(_) _",MY@ SKYNET SPORTS 6 | SD (_)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36499.ts
+#EXTINF:0 group-title="(_) _",NFL NOW | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/5971.ts
+#EXTINF:0 group-title="(_) _",NL FOX SPORTS 1 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1206.ts
+#EXTINF:0 group-title="(_) _",NL FOX SPORTS 2 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1205.ts
+#EXTINF:0 group-title="(_) _",NL FOX SPORTS 3 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1204.ts
+#EXTINF:0 group-title="(_) _",NL ZIGGO SPORT EXTRA 1 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1200.ts
+#EXTINF:0 group-title="(_) _",NL ZIGGO SPORT EXTRA 2 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1199.ts
+#EXTINF:0 group-title="(_) _",NL ZIGGO SPORT GOLF | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1198.ts
+#EXTINF:0 group-title="(_) _",NL ZIGGO SPORT RACING | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1197.ts
+#EXTINF:0 group-title="(_) _",NL ZIGGO SPORT SELECT | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1196.ts
+#EXTINF:0 group-title="(_) _",NL ZIGGO SPORT VOETBAL | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1195.ts
+#EXTINF:0 group-title="(_) _",NOVA SPORT 1 | HD (_)
+http://81.200.50.4/hls/Nova_Sport_nejtv_portable_low.m3u8
+#EXTINF:0 group-title="(_) _",NOVA SPORT 2 | HD (_)
+http://81.200.50.4/hls/Nova_Sport_2_nejtv_portable_low.m3u8
+#EXTINF:0 group-title="(_) _",OMAN SPORTS | SD (_)
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:0 group-title="(_) _",OSN | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/352.ts
+#EXTINF:0 group-title="(_) _",PT SPORT TV 1 | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1005.ts
+#EXTINF:0 group-title="(_) _",PT SPORT TV 2 | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1006.ts
+#EXTINF:0 group-title="(_) _",PT SPORT TV 3 | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1007.ts
+#EXTINF:0 group-title="(_) _",PT SPORT TV 4 | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1008.ts
+#EXTINF:0 group-title="(_) _",PT SPORT TV 5 | HD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1013.ts
+#EXTINF:0 group-title="(_) _",PT SPORT-TV1 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1446.ts
+#EXTINF:0 group-title="(_) _",PT SPORT-TV2 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1447.ts
+#EXTINF:0 group-title="(_) _",PT SPORT-TV3 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1448.ts
+#EXTINF:0 group-title="(_) _",PT SPORT-TV4 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1449.ts
+#EXTINF:0 group-title="(_) _",PT SPORT-TV5 | SD (_)
+http://premium-tv.me:9500/live/hassan/hassan/1450.ts
+#EXTINF:0 group-title="(_) _",SKY | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1043.ts
+#EXTINF:0 group-title="(_) _",SKY | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1044.ts
+#EXTINF:0 group-title="(_) _",SKY | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5137.ts
+#EXTINF:0 group-title="(_) _",SKY | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5699.ts
+#EXTINF:0 group-title="(_) _",SKY | SD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1047.ts
+#EXTINF:0 group-title="(_) _",SKY | SD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1048.ts
+#EXTINF:0 group-title="(_) _",SKY | SD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1049.ts
+#EXTINF:0 group-title="(_) _",SKY SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6482.ts
+#EXTINF:0 group-title="(_) _",SKY SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6483.ts
+#EXTINF:0 group-title="(_) _",SKY SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6484.ts
+#EXTINF:0 group-title="(_) _",SKY SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6485.ts
+#EXTINF:0 group-title="(_) _",SKY SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6486.ts
+#EXTINF:0 group-title="(_) _",SKY SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6489.ts
+#EXTINF:0 group-title="(_) _",SKY SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6490.ts
+#EXTINF:0 group-title="(_) _",SKY SPORTS | SD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6488.ts
+#EXTINF:0 group-title="(_) _",SPOR KANALLAR | SD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/7956.ts
+#EXTINF:0 group-title="(_) _",SPORT TV | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/8147.ts
+#EXTINF:0 group-title="(_) _",SPORT TV 2 | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/8148.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/153.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/392.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/393.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/394.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/417.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/425.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/669.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/703.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/706.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/708.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/898.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/982.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1013.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1165.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1167.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1168.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1169.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1175.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1176.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1177.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1178.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1179.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/1180.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5337.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5338.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5339.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5342.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5344.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5345.ts
+#EXTINF:0 group-title="(_) _",SPORTS | HD (_)
+http://192.99.18.65:8000/live/adrian/adrian/6535.ts
+#EXTINF:0 group-title="(_) _",SPORTS | SD (_)
+http://192.99.18.65:8000/live/adrian/adrian/530.ts
+#EXTINF:0 group-title="(_) _",SPORTS | SD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5335.ts
+#EXTINF:0 group-title="(_) _",SPORTS | SD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5336.ts
+#EXTINF:0 group-title="(_) _",SPORTS | SD (_)
+http://192.99.18.65:8000/live/adrian/adrian/5341.ts
+#EXTINF:0 group-title="(_) _",SPORTS TV UHD | SD (_)
+http://163.172.107.124:80/live/test22/test22/6001.ts
+#EXTINF:0 group-title="(_) _",SPORTV | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6082.ts
+#EXTINF:0 group-title="(_) _",SPORTV | HD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38476.ts
+#EXTINF:0 group-title="(_) _",SPORTV | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4327.ts
+#EXTINF:0 group-title="(_) _",SPORTV | SD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38481.ts
+#EXTINF:0 group-title="(_) _",SPORTV 2 | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6084.ts
+#EXTINF:0 group-title="(_) _",SPORTV 2 | HD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38479.ts
+#EXTINF:0 group-title="(_) _",SPORTV 2 | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4326.ts
+#EXTINF:0 group-title="(_) _",SPORTV 2 | SD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38480.ts
+#EXTINF:0 group-title="(_) _",SPORTV 3 | HD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/6083.ts
+#EXTINF:0 group-title="(_) _",SPORTV 3 | HD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38477.ts
+#EXTINF:0 group-title="(_) _",SPORTV 3 | SD (_)
+http://142.44.139.236:25461/live/adriano10/adriano10/4325.ts
+#EXTINF:0 group-title="(_) _",SPORTV 3 | SD (_)
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38478.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT | HD (_)
+http://ipsatpro.biz:8080/live/Majda/Majda/2970.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT | HD (_)
+http://212.8.248.197:8080/live/Majda/Majda/2970.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT 1 | HD (_)
+http://ipsatpro.biz:8080/live/Majda/Majda/1774.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT 1 | HD (_)
+http://212.8.248.197:8080/live/Majda/Majda/1774.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT 2 | HD (_)
+http://ipsatpro.biz:8080/live/Majda/Majda/1775.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT 2 | HD (_)
+http://212.8.248.197:8080/live/Majda/Majda/1775.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT 3 | HD (_)
+http://ipsatpro.biz:8080/live/Majda/Majda/1776.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT 3 | HD (_)
+http://212.8.248.197:8080/live/Majda/Majda/1776.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT 4 | HD (_)
+http://ipsatpro.biz:8080/live/Majda/Majda/1777.ts
+#EXTINF:0 group-title="(_) _",STAR SPORT 4 | HD (_)
+http://212.8.248.197:8080/live/Majda/Majda/1777.ts
+#EXTINF:0 group-title="(_) _",SW C MORE FOTBOLL | SD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3717.ts
+#EXTINF:0 group-title="(_) _",SW C MORE SPORT | SD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3718.ts
+#EXTINF:0 group-title="(_) _",SW EUROSPORT 1 | SD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3727.ts
+#EXTINF:0 group-title="(_) _",SW EUROSPORT 2 | SD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3726.ts
+#EXTINF:0 group-title="(_) _",SW FIGHT SPORTS | SD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3725.ts
+#EXTINF:0 group-title="(_) _",SW TV3 SPORT | SD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3774.ts
+#EXTINF:0 group-title="(_) _",SW TV4 SPORT | HD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3765.ts
+#EXTINF:0 group-title="(_) _",SW VIASAT FOTBOLL | HD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3738.ts
+#EXTINF:0 group-title="(_) _",SW VIASAT SPORT | HD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3740.ts
+#EXTINF:0 group-title="(_) _",SW VIASAT SPORT PREMIUM | SD (_)
+http://145.239.1.103:8000/live/Dogan4/Dogan4/3739.ts
+#EXTINF:0 group-title="(_) _",TELEARENA | SD (_)
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:0 group-title="(_) _",TELEFORMULA NEW | SD (_)
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:0 group-title="(_) _",TEN SPORTS | SD (_)
+http://ipsatpro.biz:8080/live/Majda/Majda/1823.ts
+#EXTINF:0 group-title="(_) _",TEN SPORTS | SD (_)
+http://212.8.248.197:8080/live/Majda/Majda/1823.ts
+#EXTINF:0 group-title="(_) _",TEN SPORTS 1 | SD (_)
+http://ipsatpro.biz:8080/live/Majda/Majda/1769.ts
+#EXTINF:0 group-title="(_) _",TEN SPORTS 1 | SD (_)
+http://212.8.248.197:8080/live/Majda/Majda/1769.ts
+#EXTINF:0 group-title="(_) _",TRACE URBAN MUSIC | SD (_)
+http://163.172.107.124:80/live/test22/test22/15314.ts
+#EXTINF:0 group-title="(_) _",TRT SPOR UHD | SD (_)
+http://163.172.107.124:80/live/test22/test22/5993.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1282.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1283.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1284.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1285.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1286.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1287.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1288.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1290.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1291.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1292.ts
+#EXTINF:0 group-title="(_) _",VIP | HD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1295.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/816.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1651.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1652.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1653.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1654.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1655.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1656.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1657.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1658.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1659.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1660.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1661.ts
+#EXTINF:0 group-title="(_) _",VIP | SD (_)
+http://51.15.199.82:25461/live/euroiptv/euroiptv/1662.ts
+#EXTINF:0 group-title="(_) _",YAS SPORTS | SD (_)
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
