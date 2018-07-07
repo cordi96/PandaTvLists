@@ -2908,3 +2908,9 @@ http://54.36.160.2:8080/live/paz1/paz1/57140.ts
 
 #EXTINF:-1,UK: BBC One HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/13688.ts
+#EXTINF:-1,UK@ .BBC ONE HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/13684.ts
+#EXTINF:-1,UK@ BBC ONE (Backup)
+http://izgemma.ddns.net:8000/live/pedro/pedro/36497.ts
+#EXTINF:-1,||NL|| BBC First FHD
+http://trexiptv.pointto.us:8000/live/spiderbox/c7eornHc3w/5351.ts
